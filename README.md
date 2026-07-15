@@ -62,6 +62,17 @@ All launcher tiles can be reassigned by long-pressing the icon.
 
 ## Version History
 
+## v0.8.2
+
+### New
+
+- Added a dedicated full-screen **Apps** screen.
+- Installed applications are displayed in a touch-friendly icon grid.
+- Vertical scrolling for larger app collections.
+- Built-in search for quickly locating installed apps.
+- Improved application discovery across Android head units.
+- Launcher updates now preserve user button assignments and settings.
+
 ### v0.7.4
 
 - Replaced Navigation with Phone Link
