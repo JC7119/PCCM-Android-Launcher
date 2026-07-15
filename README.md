@@ -120,5 +120,7 @@ The launcher is, and always will be, free and open source. Donations are complet
 
 ☕ **PayPal:** https://paypal.me/JOSPEHCOHEN
 
+**Yes, that link is correct. Apparently 17-year-old me fat-fingered my PayPal.Me username, and I've been living with it ever since.**
+
 Thank you for your support!
 
