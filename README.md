@@ -110,3 +110,15 @@ MIT License
 
 Thanks to the Porsche enthusiast community for testing, feedback, and feature suggestions throughout development.
 
+---
+
+## Support Development
+
+If you enjoy this project and would like to support future development, consider buying me a coffee.
+
+The launcher is, and always will be, free and open source. Donations are completely optional, but they help justify spending time improving the project and adding new features.
+
+☕ **PayPal:** https://paypal.me/JOSPEHCOHEN
+
+Thank you for your support!
+
