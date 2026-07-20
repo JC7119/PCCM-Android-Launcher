@@ -62,9 +62,18 @@ All launcher tiles can be reassigned by long-pressing the icon.
 
 ## Version History
 
-## v0.8.2
+## Latest Release - v0.8.3
 
-### New
+### Fixed
+- Fixed an issue where pressing the **Home** button while the app drawer was open would not return to the launcher home screen.
+- Improved Android activity stack handling so the app drawer is properly dismissed when returning Home.
+- Returning to the launcher after launching another application now consistently displays the main launcher interface instead of leaving the app drawer open.
+
+### Improvements
+- Minor launcher navigation and lifecycle refinements.
+- Additional polish toward a more OEM-like PCCM+ user experience.
+
+## v0.8.2
 
 - Added a dedicated full-screen **Apps** screen.
 - Installed applications are displayed in a touch-friendly icon grid.
