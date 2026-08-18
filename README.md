@@ -62,6 +62,37 @@ All launcher tiles can be reassigned by long-pressing the icon.
 
 ## Version History
 
+## v0.9.2 — Multi-Language Support
+
+* Added automatic system-language detection.
+* Added support for **19 languages**:
+
+  * English
+  * French
+  * German
+  * Italian
+  * Spanish
+  * Portuguese
+  * Dutch
+  * Polish
+  * Czech
+  * Danish
+  * Swedish
+  * Norwegian
+  * Finnish
+  * Romanian
+  * Greek
+  * Turkish
+  * Russian
+  * Japanese
+  * Simplified Chinese
+* Launcher automatically changes language based on the Android system language.
+* Unsupported system languages automatically fall back to English.
+* Localized launcher labels, App Drawer, search interface, app-assignment dialogs, and notifications.
+* Existing app assignments remain intact when switching languages.
+* Added proper support for Latin, Cyrillic, Greek, Japanese, and Chinese character sets.
+* No changes to the existing launcher layout or core functionality.
+
 ## Latest Release - v0.8.3
 
 ### Fixed
