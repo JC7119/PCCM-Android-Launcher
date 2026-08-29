@@ -27,7 +27,11 @@ This launcher has been tested on:
 
 - UIS7870-based Android head unit
 - Samsung Galaxy Tab S9 FE
-- BlueStacks 
+- BlueStacks
+
+User Tested on
+
+-Heregoes UIS7862
 
 Other android devices should also work, but compatibility is not guaranteed.
 
