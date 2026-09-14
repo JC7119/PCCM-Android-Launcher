@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PCCM OEM 启动器</string>
+
+    <!-- Main launcher tiles -->
+    <string name="tile_tuner">收音机</string>
+    <string name="tile_media">媒体</string>
+    <string name="tile_phone">电话</string>
+    <string name="tile_phone_link">手机互联</string>
+    <string name="tile_map">地图</string>
+    <string name="tile_sound">声音</string>
+    <string name="tile_car">车辆</string>
+    <string name="tile_apps">应用</string>
+
+    <!-- Main launcher messages and app assignment -->
+    <string name="apps_drawer_info">应用将打开全屏应用列表。</string>
+    <string name="assigned_app_missing">已分配的应用不存在。长按以重新分配。</string>
+    <string name="assign_app_title">为 %1$s 分配应用</string>
+    <string name="app_assigned">已将 %1$s 分配给 %2$s</string>
+    <string name="clear">清除</string>
+    <string name="tile_cleared">已清除 %1$s 的分配</string>
+    <string name="unable_open_settings">无法打开 Android 设置。</string>
+
+    <!-- App drawer -->
+    <string name="app_drawer_title">应用</string>
+    <string name="back">返回</string>
+    <string name="close">关闭</string>
+    <string name="search_apps">搜索应用…</string>
+    <string name="unable_open_app">无法打开 %1$s</string>
+</resources>
