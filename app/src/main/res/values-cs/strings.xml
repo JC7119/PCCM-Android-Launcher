@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PCCM OEM Launcher</string>
+    <string name="tile_tuner">Rádio</string>
+    <string name="tile_media">Média</string>
+    <string name="tile_phone">Telefon</string>
+    <string name="tile_phone_link">Propojení tel.</string>
+    <string name="tile_map">Mapa</string>
+    <string name="tile_sound">Zvuk</string>
+    <string name="tile_car">Vozidlo</string>
+    <string name="tile_apps">Aplikace</string>
+    <string name="apps_drawer_info">Aplikace otevřou zásuvku aplikací na celé obrazovce.</string>
+    <string name="assigned_app_missing">Přiřazená aplikace chybí. Dlouhým stiskem ji znovu přiřaďte.</string>
+    <string name="assign_app_title">Přiřadit aplikaci k %1$s</string>
+    <string name="app_assigned">%1$s přiřazeno k %2$s</string>
+    <string name="clear">Vymazat</string>
+    <string name="tile_cleared">Přiřazení %1$s vymazáno</string>
+    <string name="unable_open_settings">Nelze otevřít nastavení Androidu.</string>
+    <string name="app_drawer_title">APLIKACE</string>
+    <string name="back">Zpět</string>
+    <string name="close">Zavřít</string>
+    <string name="search_apps">Hledat aplikace…</string>
+    <string name="unable_open_app">Nelze otevřít %1$s</string>
+</resources>
