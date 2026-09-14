@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PCCM OEM ランチャー</string>
+
+    <!-- Main launcher tiles -->
+    <string name="tile_tuner">チューナー</string>
+    <string name="tile_media">メディア</string>
+    <string name="tile_phone">電話</string>
+    <string name="tile_phone_link">スマホ連携</string>
+    <string name="tile_map">地図</string>
+    <string name="tile_sound">サウンド</string>
+    <string name="tile_car">車両</string>
+    <string name="tile_apps">アプリ</string>
+
+    <!-- Main launcher messages and app assignment -->
+    <string name="apps_drawer_info">アプリを開くと、全画面のアプリ一覧が表示されます。</string>
+    <string name="assigned_app_missing">割り当てたアプリが見つかりません。長押しして再設定してください。</string>
+    <string name="assign_app_title">%1$s にアプリを割り当て</string>
+    <string name="app_assigned">%2$s に %1$s を割り当てました</string>
+    <string name="clear">解除</string>
+    <string name="tile_cleared">%1$s の割り当てを解除しました</string>
+    <string name="unable_open_settings">Android 設定を開けません。</string>
+
+    <!-- App drawer -->
+    <string name="app_drawer_title">アプリ</string>
+    <string name="back">戻る</string>
+    <string name="close">閉じる</string>
+    <string name="search_apps">アプリを検索…</string>
+    <string name="unable_open_app">%1$s を開けません</string>
+</resources>
