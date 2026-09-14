@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PCCM OEM Launcher</string>
+    <string name="tile_tuner">Radio</string>
+    <string name="tile_media">Medier</string>
+    <string name="tile_phone">Telefon</string>
+    <string name="tile_phone_link">Telefontilkobling</string>
+    <string name="tile_map">Kart</string>
+    <string name="tile_sound">Lyd</string>
+    <string name="tile_car">Kjøretøy</string>
+    <string name="tile_apps">Apper</string>
+    <string name="apps_drawer_info">Apper åpner appskuffen i fullskjerm.</string>
+    <string name="assigned_app_missing">Tildelt app mangler. Hold inne for å tilordne på nytt.</string>
+    <string name="assign_app_title">Tilordne app til %1$s</string>
+    <string name="app_assigned">%1$s tilordnet til %2$s</string>
+    <string name="clear">Tøm</string>
+    <string name="tile_cleared">Tilordningen for %1$s er tømt</string>
+    <string name="unable_open_settings">Kan ikke åpne Android-innstillinger.</string>
+    <string name="app_drawer_title">APPER</string>
+    <string name="back">Tilbake</string>
+    <string name="close">Lukk</string>
+    <string name="search_apps">Søk etter apper…</string>
+    <string name="unable_open_app">Kan ikke åpne %1$s</string>
+</resources>
