@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PCCM OEM Launcher</string>
+    <string name="tile_tuner">Radio</string>
+    <string name="tile_media">Media</string>
+    <string name="tile_phone">Telefono</string>
+    <string name="tile_phone_link">Connessione tel.</string>
+    <string name="tile_map">Mappa</string>
+    <string name="tile_sound">Audio</string>
+    <string name="tile_car">Veicolo</string>
+    <string name="tile_apps">App</string>
+    <string name="apps_drawer_info">App apre il cassetto delle applicazioni a schermo intero.</string>
+    <string name="assigned_app_missing">App assegnata non trovata. Tieni premuto per riassegnarla.</string>
+    <string name="assign_app_title">Assegna app a %1$s</string>
+    <string name="app_assigned">%1$s assegnata a %2$s</string>
+    <string name="clear">Cancella</string>
+    <string name="tile_cleared">Assegnazione di %1$s cancellata</string>
+    <string name="unable_open_settings">Impossibile aprire le impostazioni Android.</string>
+    <string name="app_drawer_title">APP</string>
+    <string name="back">Indietro</string>
+    <string name="close">Chiudi</string>
+    <string name="search_apps">Cerca app…</string>
+    <string name="unable_open_app">Impossibile aprire %1$s</string>
+</resources>
