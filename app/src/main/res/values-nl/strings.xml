@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PCCM OEM Launcher</string>
+    <string name="tile_tuner">Radio</string>
+    <string name="tile_media">Media</string>
+    <string name="tile_phone">Telefoon</string>
+    <string name="tile_phone_link">Telefoonkoppeling</string>
+    <string name="tile_map">Kaart</string>
+    <string name="tile_sound">Geluid</string>
+    <string name="tile_car">Voertuig</string>
+    <string name="tile_apps">Apps</string>
+    <string name="apps_drawer_info">Apps opent de app-lade op volledig scherm.</string>
+    <string name="assigned_app_missing">Toegewezen app ontbreekt. Houd ingedrukt om opnieuw toe te wijzen.</string>
+    <string name="assign_app_title">App toewijzen aan %1$s</string>
+    <string name="app_assigned">%1$s toegewezen aan %2$s</string>
+    <string name="clear">Wissen</string>
+    <string name="tile_cleared">Toewijzing voor %1$s gewist</string>
+    <string name="unable_open_settings">Android-instellingen kunnen niet worden geopend.</string>
+    <string name="app_drawer_title">APPS</string>
+    <string name="back">Terug</string>
+    <string name="close">Sluiten</string>
+    <string name="search_apps">Apps zoeken…</string>
+    <string name="unable_open_app">%1$s kan niet worden geopend</string>
+</resources>
