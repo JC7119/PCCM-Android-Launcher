@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PCCM OEM Launcher</string>
+    <string name="tile_tuner">Radio</string>
+    <string name="tile_media">Media</string>
+    <string name="tile_phone">Telefon</string>
+    <string name="tile_phone_link">Conexiune tel.</string>
+    <string name="tile_map">Hartă</string>
+    <string name="tile_sound">Sunet</string>
+    <string name="tile_car">Vehicul</string>
+    <string name="tile_apps">Aplicații</string>
+    <string name="apps_drawer_info">Aplicații deschide sertarul de aplicații pe tot ecranul.</string>
+    <string name="assigned_app_missing">Aplicația atribuită lipsește. Apasă lung pentru a o reatribui.</string>
+    <string name="assign_app_title">Atribuie aplicație la %1$s</string>
+    <string name="app_assigned">%1$s atribuită la %2$s</string>
+    <string name="clear">Șterge</string>
+    <string name="tile_cleared">Atribuirea pentru %1$s a fost ștearsă</string>
+    <string name="unable_open_settings">Nu se pot deschide setările Android.</string>
+    <string name="app_drawer_title">APLICAȚII</string>
+    <string name="back">Înapoi</string>
+    <string name="close">Închide</string>
+    <string name="search_apps">Caută aplicații…</string>
+    <string name="unable_open_app">Nu se poate deschide %1$s</string>
+</resources>
