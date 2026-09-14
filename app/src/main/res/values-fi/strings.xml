@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PCCM OEM Launcher</string>
+    <string name="tile_tuner">Radio</string>
+    <string name="tile_media">Media</string>
+    <string name="tile_phone">Puhelin</string>
+    <string name="tile_phone_link">Puhelinyhteys</string>
+    <string name="tile_map">Kartta</string>
+    <string name="tile_sound">Ääni</string>
+    <string name="tile_car">Ajoneuvo</string>
+    <string name="tile_apps">Sovellukset</string>
+    <string name="apps_drawer_info">Sovellukset avaa koko näytön sovellusvalikon.</string>
+    <string name="assigned_app_missing">Määritetty sovellus puuttuu. Määritä uudelleen painamalla pitkään.</string>
+    <string name="assign_app_title">Määritä sovellus kohteelle %1$s</string>
+    <string name="app_assigned">%1$s määritetty kohteelle %2$s</string>
+    <string name="clear">Tyhjennä</string>
+    <string name="tile_cleared">Kohteen %1$s määritys tyhjennetty</string>
+    <string name="unable_open_settings">Android-asetuksia ei voitu avata.</string>
+    <string name="app_drawer_title">SOVELLUKSET</string>
+    <string name="back">Takaisin</string>
+    <string name="close">Sulje</string>
+    <string name="search_apps">Hae sovelluksia…</string>
+    <string name="unable_open_app">Sovellusta %1$s ei voitu avata</string>
+</resources>
