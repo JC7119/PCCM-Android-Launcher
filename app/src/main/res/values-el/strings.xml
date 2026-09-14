@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PCCM OEM Launcher</string>
+    <string name="tile_tuner">Ραδιόφωνο</string>
+    <string name="tile_media">Πολυμέσα</string>
+    <string name="tile_phone">Τηλέφωνο</string>
+    <string name="tile_phone_link">Σύνδεση τηλ.</string>
+    <string name="tile_map">Χάρτης</string>
+    <string name="tile_sound">Ήχος</string>
+    <string name="tile_car">Όχημα</string>
+    <string name="tile_apps">Εφαρμογές</string>
+    <string name="apps_drawer_info">Οι Εφαρμογές ανοίγουν το συρτάρι εφαρμογών σε πλήρη οθόνη.</string>
+    <string name="assigned_app_missing">Η αντιστοιχισμένη εφαρμογή λείπει. Πατήστε παρατεταμένα για νέα αντιστοίχιση.</string>
+    <string name="assign_app_title">Αντιστοίχιση εφαρμογής στο %1$s</string>
+    <string name="app_assigned">Το %1$s αντιστοιχίστηκε στο %2$s</string>
+    <string name="clear">Εκκαθάριση</string>
+    <string name="tile_cleared">Η αντιστοίχιση του %1$s διαγράφηκε</string>
+    <string name="unable_open_settings">Δεν είναι δυνατό το άνοιγμα των ρυθμίσεων Android.</string>
+    <string name="app_drawer_title">ΕΦΑΡΜΟΓΕΣ</string>
+    <string name="back">Πίσω</string>
+    <string name="close">Κλείσιμο</string>
+    <string name="search_apps">Αναζήτηση εφαρμογών…</string>
+    <string name="unable_open_app">Δεν είναι δυνατό το άνοιγμα του %1$s</string>
+</resources>
