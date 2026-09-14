@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PCCM OEM Launcher</string>
+
+    <!-- Main launcher tiles -->
+    <string name="tile_tuner">Tuner</string>
+    <string name="tile_media">Media</string>
+    <string name="tile_phone">Phone</string>
+    <string name="tile_phone_link">Phone Link</string>
+    <string name="tile_map">Map</string>
+    <string name="tile_sound">Sound</string>
+    <string name="tile_car">Car</string>
+    <string name="tile_apps">Apps</string>
+
+    <!-- Main launcher messages and app assignment -->
+    <string name="apps_drawer_info">Apps opens the full-screen app drawer.</string>
+    <string name="assigned_app_missing">Assigned app missing. Long-press to remap.</string>
+    <string name="assign_app_title">Assign app to %1$s</string>
+    <string name="app_assigned">%1$s assigned to %2$s</string>
+    <string name="clear">Clear</string>
+    <string name="tile_cleared">%1$s cleared</string>
+    <string name="unable_open_settings">Unable to open Android Settings.</string>
+
+    <!-- App drawer -->
+    <string name="app_drawer_title">APPS</string>
+    <string name="back">Back</string>
+    <string name="close">Close</string>
+    <string name="search_apps">Search apps…</string>
+    <string name="unable_open_app">Unable to open %1$s</string>
+</resources>
