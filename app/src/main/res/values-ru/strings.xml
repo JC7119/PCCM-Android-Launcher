@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PCCM OEM Launcher</string>
+    <string name="tile_tuner">Радио</string>
+    <string name="tile_media">Медиа</string>
+    <string name="tile_phone">Телефон</string>
+    <string name="tile_phone_link">Связь с тел.</string>
+    <string name="tile_map">Карта</string>
+    <string name="tile_sound">Звук</string>
+    <string name="tile_car">Автомобиль</string>
+    <string name="tile_apps">Приложения</string>
+    <string name="apps_drawer_info">Приложения открывает полноэкранный список приложений.</string>
+    <string name="assigned_app_missing">Назначенное приложение отсутствует. Нажмите и удерживайте, чтобы назначить заново.</string>
+    <string name="assign_app_title">Назначить приложение для %1$s</string>
+    <string name="app_assigned">%1$s назначено для %2$s</string>
+    <string name="clear">Очистить</string>
+    <string name="tile_cleared">Назначение для %1$s удалено</string>
+    <string name="unable_open_settings">Не удалось открыть настройки Android.</string>
+    <string name="app_drawer_title">ПРИЛОЖЕНИЯ</string>
+    <string name="back">Назад</string>
+    <string name="close">Закрыть</string>
+    <string name="search_apps">Поиск приложений…</string>
+    <string name="unable_open_app">Не удалось открыть %1$s</string>
+</resources>
