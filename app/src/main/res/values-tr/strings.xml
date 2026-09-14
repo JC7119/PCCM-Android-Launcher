@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PCCM OEM Launcher</string>
+    <string name="tile_tuner">Radyo</string>
+    <string name="tile_media">Medya</string>
+    <string name="tile_phone">Telefon</string>
+    <string name="tile_phone_link">Telefon bağlantısı</string>
+    <string name="tile_map">Harita</string>
+    <string name="tile_sound">Ses</string>
+    <string name="tile_car">Araç</string>
+    <string name="tile_apps">Uygulamalar</string>
+    <string name="apps_drawer_info">Uygulamalar tam ekran uygulama çekmecesini açar.</string>
+    <string name="assigned_app_missing">Atanan uygulama bulunamadı. Yeniden atamak için uzun basın.</string>
+    <string name="assign_app_title">%1$s için uygulama ata</string>
+    <string name="app_assigned">%1$s, %2$s için atandı</string>
+    <string name="clear">Temizle</string>
+    <string name="tile_cleared">%1$s ataması temizlendi</string>
+    <string name="unable_open_settings">Android Ayarları açılamıyor.</string>
+    <string name="app_drawer_title">UYGULAMALAR</string>
+    <string name="back">Geri</string>
+    <string name="close">Kapat</string>
+    <string name="search_apps">Uygulama ara…</string>
+    <string name="unable_open_app">%1$s açılamıyor</string>
+</resources>
