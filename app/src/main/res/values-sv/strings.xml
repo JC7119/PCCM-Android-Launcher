@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PCCM OEM Launcher</string>
+    <string name="tile_tuner">Radio</string>
+    <string name="tile_media">Media</string>
+    <string name="tile_phone">Telefon</string>
+    <string name="tile_phone_link">Telefonanslutning</string>
+    <string name="tile_map">Karta</string>
+    <string name="tile_sound">Ljud</string>
+    <string name="tile_car">Fordon</string>
+    <string name="tile_apps">Appar</string>
+    <string name="apps_drawer_info">Appar öppnar applådan i helskärmsläge.</string>
+    <string name="assigned_app_missing">Tilldelad app saknas. Håll ned för att tilldela på nytt.</string>
+    <string name="assign_app_title">Tilldela app till %1$s</string>
+    <string name="app_assigned">%1$s tilldelades till %2$s</string>
+    <string name="clear">Rensa</string>
+    <string name="tile_cleared">Tilldelningen för %1$s rensades</string>
+    <string name="unable_open_settings">Det gick inte att öppna Android-inställningarna.</string>
+    <string name="app_drawer_title">APPAR</string>
+    <string name="back">Tillbaka</string>
+    <string name="close">Stäng</string>
+    <string name="search_apps">Sök appar…</string>
+    <string name="unable_open_app">Det gick inte att öppna %1$s</string>
+</resources>
