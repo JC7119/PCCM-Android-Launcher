@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PCCM OEM Launcher</string>
+
+    <!-- Tuiles principales -->
+    <string name="tile_tuner">Radio</string>
+    <string name="tile_media">Médias</string>
+    <string name="tile_phone">Téléphone</string>
+    <string name="tile_phone_link">Connexion tél.</string>
+    <string name="tile_map">Carte</string>
+    <string name="tile_sound">Son</string>
+    <string name="tile_car">Véhicule</string>
+    <string name="tile_apps">Applications</string>
+
+    <!-- Messages et attribution des applications -->
+    <string name="apps_drawer_info">Applications ouvre le tiroir d’applications en plein écran.</string>
+    <string name="assigned_app_missing">Application attribuée introuvable. Faites un appui long pour la réattribuer.</string>
+    <string name="assign_app_title">Attribuer une application à %1$s</string>
+    <string name="app_assigned">%1$s attribué à %2$s</string>
+    <string name="clear">Effacer</string>
+    <string name="tile_cleared">Attribution de %1$s effacée</string>
+    <string name="unable_open_settings">Impossible d’ouvrir les paramètres Android.</string>
+
+    <!-- Tiroir d’applications -->
+    <string name="app_drawer_title">APPLICATIONS</string>
+    <string name="back">Retour</string>
+    <string name="close">Fermer</string>
+    <string name="search_apps">Rechercher des applications…</string>
+    <string name="unable_open_app">Impossible d’ouvrir %1$s</string>
+</resources>
