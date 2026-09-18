@@ -151,7 +151,6 @@ The first full release of PCCM OEM Launcher.
 - Added the ability to switch between **PCCM+ .1 / Classic** and **PCCM+ .2 / Modern** from launcher settings.
 - Added a new high-resolution icon set designed specifically for the Modern interface.
 - Added new Modern launcher functions including **Sound** and **Car**.
-- Added OEM-inspired Bluetooth and phone status information.
 - Added dedicated settings access for both launcher interfaces.
 - Updated launcher settings to support interface selection.
 
