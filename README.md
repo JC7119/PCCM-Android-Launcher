@@ -80,7 +80,6 @@ Modern includes:
 - A completely redesigned home screen
 - New high-resolution artwork and icons
 - Updated typography and visual styling
-- Porsche-inspired status information
 - The same configurable application shortcuts as the Classic interface
 - Access to the existing PCCM OEM Launcher app drawer and settings
 
