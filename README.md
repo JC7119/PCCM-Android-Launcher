@@ -26,7 +26,6 @@ Version 1.0 introduces two selectable Porsche-inspired interfaces: **PCCM+ .1 / 
 - Built-in application search
 - Automatic system-language detection
 - Support for 19 languages
-- OEM-inspired Bluetooth and phone status display
 - Lightweight and fast
 - Designed specifically for automotive use
 - No unnecessary widgets or distractions
