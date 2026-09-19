@@ -52,6 +52,10 @@ Android head units vary significantly between manufacturers, firmware versions, 
 
 ## Installation
 
+### Video Installation Guide
+
+[![PCCM+ Launcher Installation Guide](https://img.youtube.com/vi/VhX00rpIYF4/maxresdefault.jpg)](https://youtu.be/VhX00rpIYF4)
+
 1. Download the latest APK from the Releases page.
 2. Copy the APK to a USB drive or download it directly to your Android device.
 3. Install the APK on your Android head unit.
