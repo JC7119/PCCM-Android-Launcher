@@ -43,6 +43,7 @@ This launcher has been tested on:
 User tested on:
 
 - Heregoes UIS7862
+- 2003 996.2 Sadocom FY818
 
 Other Android devices should also work, but compatibility is not guaranteed.
 
