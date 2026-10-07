@@ -146,6 +146,13 @@ Localization includes launcher labels, the App Drawer, search interface, app-ass
 
 # Version History
 
+## PCCM+ Launcher v1.0.1
+
+### Bug Fixes
+- Fixed Classic theme layout scaling on ultrawide displays.
+- Improved compatibility with 1920×720, 1280×480, and other wide-aspect Android head units.
+- No changes to existing theme design or functionality.
+
 ## v1.0 — PCCM+ .2 / Modern
 
 The first full release of PCCM OEM Launcher.
