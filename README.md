@@ -44,6 +44,7 @@ User tested on:
 
 - Heregoes UIS7862
 - 2003 996.2 Sadocom FY818
+- 2013 981 Erisin 
 
 Other Android devices should also work, but compatibility is not guaranteed.
 
