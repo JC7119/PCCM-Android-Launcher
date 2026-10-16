@@ -45,7 +45,7 @@ User tested on:
 - Heregoes UIS7862
 - 2003 996.2 Sadocom FY818
 - 2013 981 Erisin 
-
+- 991 CHstek 8581
 Other Android devices should also work, but compatibility is not guaranteed.
 
 Android head units vary significantly between manufacturers, firmware versions, and ROMs. The method used to configure a default launcher differs between devices. If you are unsure how to change your launcher, please consult your head unit manufacturer for model-specific instructions.
